@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\bin\Debug\net5.0\CountingSort.exe
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\bin\Debug\net5.0\CountingSort.deps.json
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\bin\Debug\net5.0\CountingSort.runtimeconfig.json
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\bin\Debug\net5.0\CountingSort.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\bin\Debug\net5.0\CountingSort.dll
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\bin\Debug\net5.0\ref\CountingSort.dll
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\bin\Debug\net5.0\CountingSort.pdb
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\obj\Debug\net5.0\CountingSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\obj\Debug\net5.0\CountingSort.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\obj\Debug\net5.0\CountingSort.AssemblyInfo.cs
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\obj\Debug\net5.0\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\obj\Debug\net5.0\CountingSort.dll
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\obj\Debug\net5.0\ref\CountingSort.dll
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\obj\Debug\net5.0\CountingSort.pdb
+C:\Users\HP\source\repos\HackerRankPrep\CountingSort\obj\Debug\net5.0\CountingSort.genruntimeconfig.cache

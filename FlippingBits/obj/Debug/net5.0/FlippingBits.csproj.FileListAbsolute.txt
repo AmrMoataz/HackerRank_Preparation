@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\bin\Debug\net5.0\FlippingBits.exe
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\bin\Debug\net5.0\FlippingBits.deps.json
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\bin\Debug\net5.0\FlippingBits.runtimeconfig.json
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\bin\Debug\net5.0\FlippingBits.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\bin\Debug\net5.0\FlippingBits.dll
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\bin\Debug\net5.0\ref\FlippingBits.dll
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\bin\Debug\net5.0\FlippingBits.pdb
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\obj\Debug\net5.0\FlippingBits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\obj\Debug\net5.0\FlippingBits.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\obj\Debug\net5.0\FlippingBits.AssemblyInfo.cs
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\obj\Debug\net5.0\FlippingBits.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\obj\Debug\net5.0\FlippingBits.dll
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\obj\Debug\net5.0\ref\FlippingBits.dll
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\obj\Debug\net5.0\FlippingBits.pdb
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\obj\Debug\net5.0\FlippingBits.genruntimeconfig.cache
+C:\Users\HP\source\repos\HackerRankPrep\FlippingBits\obj\Debug\net5.0\FlippingBits.csproj.AssemblyReference.cache

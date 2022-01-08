@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\bin\Debug\net5.0\PermutingTwoArrays.exe
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\bin\Debug\net5.0\PermutingTwoArrays.deps.json
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\bin\Debug\net5.0\PermutingTwoArrays.runtimeconfig.json
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\bin\Debug\net5.0\PermutingTwoArrays.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\bin\Debug\net5.0\PermutingTwoArrays.dll
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\bin\Debug\net5.0\ref\PermutingTwoArrays.dll
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\bin\Debug\net5.0\PermutingTwoArrays.pdb
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\obj\Debug\net5.0\PermutingTwoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\obj\Debug\net5.0\PermutingTwoArrays.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\obj\Debug\net5.0\PermutingTwoArrays.AssemblyInfo.cs
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\obj\Debug\net5.0\PermutingTwoArrays.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\obj\Debug\net5.0\PermutingTwoArrays.dll
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\obj\Debug\net5.0\ref\PermutingTwoArrays.dll
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\obj\Debug\net5.0\PermutingTwoArrays.pdb
+C:\Users\HP\source\repos\HackerRankPrep\PermutingTwoArrays\obj\Debug\net5.0\PermutingTwoArrays.genruntimeconfig.cache

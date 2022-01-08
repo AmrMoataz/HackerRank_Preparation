@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\bin\Debug\net5.0\SubarrayDivision.exe
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\bin\Debug\net5.0\SubarrayDivision.deps.json
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\bin\Debug\net5.0\SubarrayDivision.runtimeconfig.json
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\bin\Debug\net5.0\SubarrayDivision.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\bin\Debug\net5.0\SubarrayDivision.dll
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\bin\Debug\net5.0\ref\SubarrayDivision.dll
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\bin\Debug\net5.0\SubarrayDivision.pdb
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\obj\Debug\net5.0\SubarrayDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\obj\Debug\net5.0\SubarrayDivision.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\obj\Debug\net5.0\SubarrayDivision.AssemblyInfo.cs
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\obj\Debug\net5.0\SubarrayDivision.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\obj\Debug\net5.0\SubarrayDivision.dll
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\obj\Debug\net5.0\ref\SubarrayDivision.dll
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\obj\Debug\net5.0\SubarrayDivision.pdb
+C:\Users\HP\source\repos\HackerRankPrep\SubarrayDivision\obj\Debug\net5.0\SubarrayDivision.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\bin\Debug\net5.0\SparseArray.exe
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\bin\Debug\net5.0\SparseArray.deps.json
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\bin\Debug\net5.0\SparseArray.runtimeconfig.json
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\bin\Debug\net5.0\SparseArray.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\bin\Debug\net5.0\SparseArray.dll
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\bin\Debug\net5.0\ref\SparseArray.dll
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\bin\Debug\net5.0\SparseArray.pdb
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\obj\Debug\net5.0\SparseArray.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\obj\Debug\net5.0\SparseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\obj\Debug\net5.0\SparseArray.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\obj\Debug\net5.0\SparseArray.AssemblyInfo.cs
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\obj\Debug\net5.0\SparseArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\obj\Debug\net5.0\SparseArray.dll
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\obj\Debug\net5.0\ref\SparseArray.dll
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\obj\Debug\net5.0\SparseArray.pdb
+C:\Users\HP\source\repos\HackerRankPrep\SparseArray\obj\Debug\net5.0\SparseArray.genruntimeconfig.cache

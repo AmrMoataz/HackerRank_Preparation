@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\bin\Debug\net5.0\MinMaxSUm.exe
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\bin\Debug\net5.0\MinMaxSUm.deps.json
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\bin\Debug\net5.0\MinMaxSUm.runtimeconfig.json
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\bin\Debug\net5.0\MinMaxSUm.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\bin\Debug\net5.0\MinMaxSUm.dll
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\bin\Debug\net5.0\ref\MinMaxSUm.dll
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\bin\Debug\net5.0\MinMaxSUm.pdb
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\obj\Debug\net5.0\MinMaxSUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\obj\Debug\net5.0\MinMaxSUm.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\obj\Debug\net5.0\MinMaxSUm.AssemblyInfo.cs
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\obj\Debug\net5.0\MinMaxSUm.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\obj\Debug\net5.0\MinMaxSUm.dll
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\obj\Debug\net5.0\ref\MinMaxSUm.dll
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\obj\Debug\net5.0\MinMaxSUm.pdb
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\obj\Debug\net5.0\MinMaxSUm.genruntimeconfig.cache
+C:\Users\HP\source\repos\HackerRankPrep\MinMaxSUm\obj\Debug\net5.0\MinMaxSUm.csproj.AssemblyReference.cache

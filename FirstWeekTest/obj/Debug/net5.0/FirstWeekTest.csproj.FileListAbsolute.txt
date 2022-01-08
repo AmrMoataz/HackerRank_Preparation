@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\bin\Debug\net5.0\FirstWeekTest.exe
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\bin\Debug\net5.0\FirstWeekTest.deps.json
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\bin\Debug\net5.0\FirstWeekTest.runtimeconfig.json
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\bin\Debug\net5.0\FirstWeekTest.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\bin\Debug\net5.0\FirstWeekTest.dll
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\bin\Debug\net5.0\ref\FirstWeekTest.dll
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\bin\Debug\net5.0\FirstWeekTest.pdb
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\obj\Debug\net5.0\FirstWeekTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\obj\Debug\net5.0\FirstWeekTest.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\obj\Debug\net5.0\FirstWeekTest.AssemblyInfo.cs
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\obj\Debug\net5.0\FirstWeekTest.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\obj\Debug\net5.0\FirstWeekTest.dll
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\obj\Debug\net5.0\ref\FirstWeekTest.dll
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\obj\Debug\net5.0\FirstWeekTest.pdb
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\obj\Debug\net5.0\FirstWeekTest.genruntimeconfig.cache
+C:\Users\HP\source\repos\HackerRankPrep\FirstWeekTest\obj\Debug\net5.0\FirstWeekTest.csproj.AssemblyReference.cache

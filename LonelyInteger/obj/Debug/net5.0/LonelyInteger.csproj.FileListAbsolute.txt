@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\bin\Debug\net5.0\LonelyInteger.exe
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\bin\Debug\net5.0\LonelyInteger.deps.json
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\bin\Debug\net5.0\LonelyInteger.runtimeconfig.json
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\bin\Debug\net5.0\LonelyInteger.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\bin\Debug\net5.0\LonelyInteger.dll
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\bin\Debug\net5.0\ref\LonelyInteger.dll
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\bin\Debug\net5.0\LonelyInteger.pdb
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\obj\Debug\net5.0\LonelyInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\obj\Debug\net5.0\LonelyInteger.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\obj\Debug\net5.0\LonelyInteger.AssemblyInfo.cs
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\obj\Debug\net5.0\LonelyInteger.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\obj\Debug\net5.0\LonelyInteger.dll
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\obj\Debug\net5.0\ref\LonelyInteger.dll
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\obj\Debug\net5.0\LonelyInteger.pdb
+C:\Users\HP\source\repos\HackerRankPrep\LonelyInteger\obj\Debug\net5.0\LonelyInteger.genruntimeconfig.cache

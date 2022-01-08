@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.exe
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.deps.json
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.runtimeconfig.json
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.dll
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\bin\Debug\net5.0\ref\DiagonalDifference.dll
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.pdb
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.AssemblyInfo.cs
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.dll
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\obj\Debug\net5.0\ref\DiagonalDifference.dll
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.pdb
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.genruntimeconfig.cache
+C:\Users\HP\source\repos\HackerRankPrep\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.csproj.AssemblyReference.cache
