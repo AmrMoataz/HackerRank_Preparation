@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\bin\Debug\net5.0\DrawingBook.exe
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\bin\Debug\net5.0\DrawingBook.deps.json
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\bin\Debug\net5.0\DrawingBook.runtimeconfig.json
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\bin\Debug\net5.0\DrawingBook.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\bin\Debug\net5.0\DrawingBook.dll
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\bin\Debug\net5.0\ref\DrawingBook.dll
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\bin\Debug\net5.0\DrawingBook.pdb
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\obj\Debug\net5.0\DrawingBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\obj\Debug\net5.0\DrawingBook.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\obj\Debug\net5.0\DrawingBook.AssemblyInfo.cs
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\obj\Debug\net5.0\DrawingBook.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\obj\Debug\net5.0\DrawingBook.dll
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\obj\Debug\net5.0\ref\DrawingBook.dll
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\obj\Debug\net5.0\DrawingBook.pdb
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\obj\Debug\net5.0\DrawingBook.genruntimeconfig.cache
+C:\Users\HP\source\repos\HackerRankPrep\DrawingBook\obj\Debug\net5.0\DrawingBook.csproj.AssemblyReference.cache
